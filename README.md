@@ -1,0 +1,1 @@
+# mockito-native-image
