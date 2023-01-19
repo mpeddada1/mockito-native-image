@@ -1,0 +1,18 @@
+{
+  "types":[
+    {
+      "name":"org.junit.platform.launcher.TestIdentifier$SerializedForm"
+    },
+    {
+      "name":"org.junit.runner.Result$SerializedForm"
+    },
+    {
+      "name":"org.mockito.codegen.Sample2$MockitoMock$n5bsl63op99200N",
+      "customTargetConstructorClass":"java.lang.Object"
+    }
+  ],
+  "lambdaCapturingTypes":[
+  ],
+  "proxies":[
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "types":[
+    {
+      "name":"org.mockito.codegen.Sample$MockitoMock$rmbfpi3op99200N",
+      "customTargetConstructorClass":"java.lang.Object"
+    }
+  ],
+  "lambdaCapturingTypes":[
+  ],
+  "proxies":[
+  ]
+}

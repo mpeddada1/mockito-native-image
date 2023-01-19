@@ -1,0 +1,13 @@
+[
+  {
+    "type":"agent-extracted",
+    "classes":[
+      { "nameInfo":"org/mockito/codegen/Sample2$MockitoMock$n5bsl63op99200N$auxiliary$7m9oaq0S", "hash":"758957a6c7e907a11c1ca75e27687e8d364b8e82e6047d3ee95af3fda5dfb1f6" },
+      { "nameInfo":"net/bytebuddy/utility/Invoker$Dispatcher", "hash":"ff8cc6ce1c2a2385c4cf869fce5810ce3b88922bae9aeacd7f343226ad8587d4" },
+      { "nameInfo":"org/mockito/codegen/Sample2$MockitoMock$n5bsl63op99200N$auxiliary$7upte92S", "hash":"14248fd2fabb4e74194b274253050903326a30283288dc145a692187381125a4" },
+      { "nameInfo":"org/mockito/codegen/Sample2$MockitoMock$n5bsl63op99200N$auxiliary$4cscpe1S", "hash":"d8cfb126c75b9198bc4de57f20633e68ea8c75f71d079c9f02fd95e8a8ac4b11" },
+      { "nameInfo":"org/mockito/codegen/Sample2$MockitoMock$n5bsl63op99200N", "hash":"2342ef187f7c83a9b7e6cf14ff26a53f820f3aad9d286d585605da20e426d0bb" }
+    ]
+  }
+]
+
