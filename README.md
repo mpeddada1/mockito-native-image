@@ -1,5 +1,16 @@
 # mockito-native-image
 
+
+To run `child-module-1`:
+- `cd child-module-1` 
+- `mvn package -Pnative`
+- `./child-module-1`
+
+To run `child-module-2`:
+- `cd child-module-2` 
+- `mvn test -Pnative`
+
+
 Without the configurations provided, we get:
 
 ```
