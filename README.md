@@ -31,7 +31,7 @@ Failures (1):
        [...]
 ```
 
-The json configuration files were generated using the trace-agent, however, all of the junit reflection configs has to be removed as they were resulting in the following error:
+The json configuration files were generated using the trace-agent, however, all of the junit reflection configs had to be removed as they were resulting in the following error:
 ```
 Fatal error: com.oracle.graal.pointsto.util.AnalysisError$ParsingError: Error encountered while parsing org.junit.platform.launcher.core.LauncherFactory.openSession(org.junit.platform.launcher.core.LauncherConfig) 
 Parsing context:
